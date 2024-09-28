@@ -1,5 +1,5 @@
 # GameOfSquares
-A simple project made for practice. <br>
+A simple project made for just practice. <br>
 <img src="SqGame-preview.png" alt="preview of Square Game"> <br>
 This this made by using HTML,CSS &amp; JS.<br>
 
