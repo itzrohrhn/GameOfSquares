@@ -3,7 +3,7 @@ A simple project made for just practice. <br>
 <img src="SqGame-preview.png" alt="preview of Square Game"> <br>
 This this made by using HTML,CSS &amp; JS.<br>
 
-<h3>Here, you will get to see 4 boxes and each with differnt functionality</h3>
+<h3>Here, you will get to see 4 boxes and each with differnt functionality added</h3>
 <ul>
   <li>BOX-1</li>
   <dl>Hovering BOX-1 will generate random numbers from 1 to 100</dl>
